@@ -1,4 +1,6 @@
-### Hi there 👋&nbsp;<h2> I'm TamL.</h2>
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+### <h2> I'm TamL.</h2>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)](https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)
 [![Upwork Profile](https://img.shields.io/badge/-upwork-222222?style=flat-square&logo=upwork&link=https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)](https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)
@@ -41,6 +43,11 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | GC | Docker | Firebase | Flutter
+  
+  
+### Can work with ... 
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/ruby%20-%2314354C.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/tailwindcss%20-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Mysql-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Postgresql-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/heroku%20-%23563D7C.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/..and more%20-%231572B6.svg?&style=for-the-badge&logo=...andmore&logoColor=white"/>   
 
 
 <br/>
