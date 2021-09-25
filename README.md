@@ -24,32 +24,30 @@
 > Having a broad knowledge of these technologies allows me to help clients in making decisions to select the most suitable solution for their ideas. Not only I can develop websites based on the specs, but I also work closely with clients to help them define their specs. I can participate in all stages in web development, from clarifying requirements to deploying to end-users.
 
 <hr>
-<img align='right' width="500" src="https://github-readme-stats.vercel.app/api?username=kokorolx&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokorolx&show_icons=true">
 
 <h3>🛠 Main Tech Stack</h3>
 
 
 - 💻 &nbsp; Ruby | Javascript
 
-- 🌐 &nbsp; ReactJS | Vuejs
+- 🌐 &nbsp; ReactJS | Vuejs | jQuery
 
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB 
 
-- 🔧 &nbsp; Git | Markdown | Selenium 
+- 🔧 &nbsp; Git | Markdown | Selenium | Shell
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS| GC | Docker | Firebase | Flutter
-
-<hr>
+- 🔧 &nbsp; AWS | GC | Docker | Firebase | Flutter
 
 
 <br/>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokorolx&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=kokorolx&show_icons=true)
 
 <br><br>
 
