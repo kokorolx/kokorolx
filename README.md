@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm TamL.</h2>
+### Hi there 👋&nbsp;<h2> I'm TamL.</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)](https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)
 [![Upwork Profile](https://img.shields.io/badge/-upwork-222222?style=flat-square&logo=upwork&link=https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)](https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)
@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -17,7 +17,7 @@
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
-<h3>Brief </h3>
+<h3> 🚩 Brief </h3>
 
 > I would like to contribute my skills and knowledge to the project and become a leader or technical expert for my career path. With over 5 years of experience in web development for both front-end, back-end, and infrastructure, I'm proficient with using frameworks Ruby on Rails, NodeJS, and ReactJS.
 
