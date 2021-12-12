@@ -12,7 +12,7 @@
 
 <h3> 👨🏻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design
 
