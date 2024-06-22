@@ -2,7 +2,7 @@
 ### <h2> I'm TamL.</h2>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)](https://www.linkedin.com/in/ho%C3%A0ng-t%C3%A2m-l%C3%AA-537744172/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangtamlee/)](https://www.linkedin.com/in/hoangtamlee/)
 [![Upwork Profile](https://img.shields.io/badge/-upwork-222222?style=flat-square&logo=upwork&link=https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)](https://www.upwork.com/freelancers/~01eb95cb7fae998bb5)
 [![Personal Blog](https://img.shields.io/badge/-PersonalBlog-222222?style=flat-square&logo=medium&link=https://thnkandgrow.com)](https://thnkandgrow.com)
 [![GitHub followers](https://img.shields.io/github/followers/kokorolx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kokorolx?tab=followers)
